@@ -1,0 +1,3 @@
+[submodule "vehicle-NFT"]
+	path = vehicle-NFT
+	url = https://github.com/FTI1DS/vehicle-NFT.git
