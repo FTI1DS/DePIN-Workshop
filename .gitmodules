@@ -1,3 +1,6 @@
 [submodule "vehicle-NFT"]
 	path = vehicle-NFT
 	url = https://github.com/FTI1DS/vehicle-NFT.git
+[submodule "ISO_Sensor_Workshop/iso-sensor-token-example"]
+	path = ISO_Sensor_Workshop/iso-sensor-token-example
+	url = https://github.com/MajorDomDePIN/iso-sensor-token-example
